@@ -1,2 +1,3 @@
 # Lab3
-lab 3
+Samridhi KC
+023-369
